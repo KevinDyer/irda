@@ -1,0 +1,5 @@
+irda (20180226~451378d-1) unstable; urgency=low
+
+  * Initial release (Closes: #891502)
+
+ -- Christopher Schramm <debian@cschramm.eu>  Mon, 26 Feb 2018 06:54:00 +0100

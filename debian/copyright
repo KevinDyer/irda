@@ -1,0 +1,51 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+
+Files: *
+Copyright: 1997-2001 Dag Brattli <dag@brattli.net>
+   1998 Lichen Wang <lwang@actisys.com>
+   1998 Actisys Corp., www.actisys.com
+   1998-1999 Thomas Davis <ratbert@radiks.net>
+   1998-1999 Aage Kvalnes <aage@cs.uit.no>
+   1998-1999 Rebel.com
+   1998-2003 VIA Technologies, Inc.
+   1999 James McKenzie
+   1999-2004 Jean Tourrilhes <jt@hpl.hp.com>
+   2000 Benjamin Kong <benjamin_kong@ali.com.tw>
+   2000 Leung
+   2000-2001 Roman Weissgaerber <weissg@vienna.at>
+   2000-2001 Russell King
+   2001 SHIMIZU Takuya
+   2001 Stefani Seibold
+   2001 MontaVista Software Inc.
+   2001-2003 Martin Diehl
+   2002 Daniele Peri
+   2002 Felix Tang
+   2004 SigmaTel, Inc. <irquality@sigmatel.com>
+   2004 Stephen Hemminger <shemminger@osdl.org>
+   2005 Milan Beno <beno@pobox.sk>
+   2005 Lukasz Stelmach <stlman@poczta.fm>
+   2005 Brian Pugh <bpugh@cs.pdx.edu>
+   2005 Judy Fischbach <jfisch@cs.pdx.edu>
+   2006 Nick Fedchik <nick@fedchik.org.ua>
+   2006 Johannes Berg <johannes@sipsolutions.net>
+   2006 Linus Walleij
+   2006 David Basden
+   2006-2009 Analog Devices Inc.
+   2007 Samuel Ortiz <samuel@sortiz.org>
+   2009 Renesas Solutions Corp.
+License: GPL-2.0+
+ This program is free software: you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation, either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>.
+ .
+ On Debian systems, the complete text of the GNU General
+ Public License version 2 can be found in "/usr/share/common-licenses/GPL-2".

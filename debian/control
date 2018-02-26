@@ -1,0 +1,15 @@
+Source: irda
+Section: kernel
+Priority: optional
+Maintainer: Christopher Schramm <debian@cschramm.eu>
+Build-Depends: debhelper (>= 9), dkms, tar (>= 1.28)
+Standards-Version: 4.1.1
+Homepage: https://github.com/cschramm/irda
+
+Package: irda-dkms
+Architecture: linux-any
+Multi-Arch: foreign
+Depends: ${misc:Depends}, dkms
+Suggests: irda-utils
+Description: IrDA subsystem and device drivers.
+ This package uses DKMS to automatically build the kernel modules.
